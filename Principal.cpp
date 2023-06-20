@@ -11,7 +11,6 @@ int main() {
     ArtistaManejadorDatos* b;*/
 
     int opcion;
-     do{
     cout << "Seleccione el tipo de dato a trabajar:" << endl;
     cout << "1. Datos estaticos" << endl;
     cout << "2. Datos desde archivo de texto" << endl;
@@ -27,7 +26,7 @@ int main() {
     } else {
         cout << "Opcion invalida. Saliendo del programa." << endl;
     } 
-    }while (opcion != 3);
+ 
 
      //int opcion;
 

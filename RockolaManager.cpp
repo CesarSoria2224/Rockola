@@ -227,14 +227,14 @@ public:
             cin >> opcion;
             switch (opcion) {
             case 1:
-                agregarAPlaylist(favoritos, canciones);
+                agregarAPlaylist(favoritos, cancionesVector);
 
                 break;
             case 2:
-                agregarAPlaylist(latinos, canciones);
+                agregarAPlaylist(latinos, cancionesVector);
                 break;
             case 3:
-                agregarAPlaylist(lista1, canciones);
+                agregarAPlaylist(lista1, cancionesVector);
                 break;
             case 4:
 

@@ -5,7 +5,7 @@
 #include <sstream>
 #include <string>
 using namespace std;
-class ArtistaManejadorDatosArchivo : public ArtistaManejadorDatos
+class ArtistaManejadorDatosArchivo :public ArtistaManejadorDatos
 {
 
 

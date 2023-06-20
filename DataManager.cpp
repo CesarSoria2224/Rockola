@@ -43,4 +43,4 @@ public:
     } 
 
 };
-//DataManager* DataManager::instance = nullptr; //hkjgl
+//DataManager* DataManager::instance = nullptr;

@@ -1,0 +1,1000 @@
+Wolf,6:56 AM,380,5
+Nines The,10:03 AM,897,2
+Red Scorpion,10:07 AM,235,3
+Thunderbolt (Pik lik feng),4:29 AM,415,2
+Same River Twice The,12:39 AM,637,4
+Mystery of the Yellow Room The (Mystère de la chambre jaune Le),6:52 AM,256,3
+Damsels in Distress,1:29 AM,509,4
+Night Tide,12:24 AM,614,1
+It Felt Like Love,3:08 PM,301,5
+Crumb,6:12 PM,78,1
+Zulu,11:54 AM,230,3
+Nine Lives of Fritz the Cat The,12:09 PM,686,3
+Dante's Inferno: An Animated Epic,8:41 PM,149,4
+Hired Hand The,6:53 AM,84,3
+Kangaroo Jack,3:13 AM,124,4
+Destinées Les (Destinées sentimentales Les),9:00 PM,94,5
+Coffee Town,8:37 PM,622,2
+Brother (Brat),7:00 AM,580,3
+Chuck & Buck,12:16 AM,976,4
+Neighbors,4:13 AM,677,1
+Hollywood Party,12:18 AM,583,4
+Pride of the Bowery,5:35 AM,924,5
+Everest,3:57 PM,721,4
+Son of Flubber,3:18 AM,412,4
+Always for Pleasure,10:15 AM,163,5
+My Neighbor Totoro (Tonari no Totoro),12:21 PM,388,1
+Naked Weapon (Chek law dak gung),10:14 PM,796,4
+HealtH,7:26 AM,801,5
+Chris Rock: Bring the Pain,7:03 AM,358,3
+Princess Mononoke (Mononoke-hime),5:14 PM,833,3
+7 Plus Seven,4:00 PM,338,2
+Amazing Panda Adventure The,8:12 PM,418,1
+National Lampoon's Cattle Call (Cattle Call),8:26 PM,303,5
+Henry Kissinger: Secrets of a Superpower (Henry Kissinger - Geheimnisse einer Supermacht),5:03 PM,384,1
+House,4:46 PM,83,1
+Felony,8:53 PM,31,1
+One Shot,12:12 PM,400,2
+Fall of the House of Usher The (chute de la maison Usher La),10:14 AM,66,4
+My Life,8:06 PM,649,4
+Big Hero 6,6:32 AM,793,4
+Musa the Warrior (Musa),6:13 PM,803,3
+Evidence of Blood,12:20 AM,504,3
+Hostage,3:51 PM,611,4
+Drive He Said,8:41 PM,723,1
+Batman: Gotham Knight,3:03 AM,983,2
+Youth of the Beast (Yaju no seishun),12:21 AM,460,5
+Ladies and Gentlemen the Fabulous Stains (a.k.a. All Washed Up),12:26 PM,567,3
+Toomorrow,6:25 AM,437,4
+Ugly American The,6:48 PM,22,5
+Black Power Mixtape 1967-1975 The,9:58 PM,430,4
+Fiendish Plot of Dr. Fu Manchu The,7:04 AM,180,5
+Up the Sandbox,11:43 PM,251,3
+Unfair Competition (Concorrenza sleale),9:35 AM,294,4
+Terrorizers The (Kong bu fen zi),2:40 PM,831,3
+Moscow Does Not Believe in Tears (Moskva slezam ne verit),11:15 PM,790,4
+Lesson of the Evil (Aku no kyôten),1:46 AM,918,4
+God's Puzzle (Kamisama no pazuru),2:10 AM,180,2
+Promise Her Anything,9:40 PM,902,4
+Siegfried & Roy: The Magic Box,8:13 PM,433,2
+20 Years After,1:32 AM,375,1
+Beneath the Planet of the Apes,1:52 AM,280,5
+Inbetweeners 2 The,8:11 PM,294,5
+Tell Them Anything You Want: A Portrait of Maurice Sendak,8:38 PM,368,3
+Raging Bull,3:48 PM,821,3
+Land Girls The,1:08 PM,809,2
+Divorce Le,5:22 AM,667,4
+Felicity,11:53 AM,693,3
+Wild Is the Wind,9:56 AM,574,3
+Conversations with My Gardener (Dialogue avec mon jardinier),12:45 PM,191,4
+Urgh! A Music War,10:57 AM,230,4
+First Strike (Police Story 4: First Strike) (Ging chaat goo si 4: Ji gaan daan yam mo),2:23 PM,856,1
+Our Life (La nostra vita),12:38 PM,31,5
+Abbott and Costello in the Foreign Legion,10:36 AM,612,3
+You Killed Me First,9:22 AM,636,4
+Rosenstrasse,2:28 PM,314,4
+Turning Point The,9:38 PM,52,2
+Charlie Chan on Broadway,1:44 PM,114,4
+Wedding Party The (Die Bluthochzeit),5:02 PM,913,2
+My Favorite Blonde,2:21 PM,403,3
+Tremors II: Aftershocks,2:29 AM,713,2
+American Swing,1:19 AM,395,5
+Across the Sea of Time,9:53 AM,513,3
+Execution Squad,9:51 PM,811,5
+Eye The (Gin gwai) (Jian gui),1:55 AM,197,1
+Learning Curve The,10:33 PM,136,2
+State Property,10:17 AM,172,1
+My Little Chickadee,7:25 AM,620,3
+Desert of the Tartars The (Deserto dei Tartari Il),6:40 PM,628,4
+Greatest The,9:37 AM,388,3
+Aries Spears: Hollywood Look I'm Smiling,10:44 AM,77,5
+Batch '81,10:55 AM,800,3
+Camino,6:42 PM,351,1
+Herr Lehmann,9:53 PM,926,2
+Lies My Father Told Me,4:08 PM,512,5
+Nativity Story The,4:38 PM,167,2
+Faust,12:39 AM,98,3
+Cornelis,10:43 PM,440,4
+Simple Twist of Fate A,8:11 PM,247,5
+Wendy and Lucy,11:21 PM,640,4
+Fatso,3:16 PM,133,4
+The Princess of Egypt,10:32 PM,75,3
+Wimbledon,2:32 AM,228,1
+NeverEnding Story III The,3:14 AM,559,3
+Toughest Man in the World The,8:40 AM,440,1
+There's Always Tomorrow,7:48 AM,295,4
+Glory,10:47 AM,490,1
+Blood Games ,4:13 AM,778,4
+Westbound,6:48 PM,24,5
+Wrong Turn 2: Dead End,6:52 AM,809,5
+Kurt Cobain: Montage of Heck,11:21 PM,146,3
+Emotion,3:33 PM,39,3
+Unknown,1:26 PM,36,5
+Green for Danger,9:13 PM,976,2
+Filth and Wisdom,2:44 PM,549,4
+Taxi 2,7:46 PM,224,4
+Sumo Do Sumo Don't (Shiko funjatta),7:50 AM,113,5
+Black Pond,3:51 AM,32,3
+Unholy Three The,2:48 PM,36,5
+The Kingdom of Dreams and Madness,5:19 PM,805,2
+Free Willy,8:47 AM,196,2
+Alice in Wonderland,7:56 PM,416,4
+Grand Amour Le,9:58 AM,990,4
+Virgin Territory,7:44 PM,401,1
+Paintball,10:02 AM,200,4
+Bashu the Little Stranger (Bashu gharibeye koochak),6:50 AM,720,5
+If It's Tuesday This Must Be Belgium,5:28 AM,442,5
+Carried Away,6:10 PM,606,2
+Howards of Virginia The,11:16 PM,407,4
+David Copperfield,9:13 AM,973,3
+Give 'em Hell Malone,6:12 PM,706,3
+Alice in the Cities (Alice in den Stadten),12:00 AM,292,4
+Cool Runnings,12:01 AM,916,5
+Samurai III: Duel on Ganryu Island (a.k.a. Bushido) (Miyamoto Musashi kanketsuhen: kettô Ganryûjima),2:24 PM,836,2
+Evening with Kevin Smith An,7:00 AM,765,5
+It's Alive III: Island of the Alive,9:54 AM,317,1
+Get Out of My Room,9:23 AM,585,5
+Ladder 49,11:26 AM,578,2
+Ivans xtc.,4:03 AM,906,3
+Shrine The,9:03 AM,876,3
+Safe Place A,2:36 PM,273,5
+My Favorite Season,10:59 AM,782,3
+Dark Journey,12:53 PM,235,3
+Notting Hill,5:07 AM,351,2
+I.Q.,7:43 PM,468,1
+Roman Spring of Mrs. Stone The,12:46 PM,53,4
+Shutter,7:08 AM,791,1
+Bread and Tulips (Pane e tulipani),2:57 PM,779,2
+Dream of Light (a.k.a. Quince Tree Sun The) (Sol del membrillo El),11:38 PM,96,1
+Dead Next Door The,5:19 PM,695,1
+Hell's Highway: The True Story of Highway Safety Films,11:29 PM,732,3
+Vivere,6:42 PM,196,4
+Lovely Molly,5:24 PM,13,1
+Nancy Goes to Rio,3:11 AM,386,5
+Basic Instinct 2,1:52 PM,615,4
+Keys of the Kingdom The,9:02 PM,537,2
+Count Three and Pray,11:16 AM,644,4
+Chernobyl Diaries,4:41 PM,287,1
+Guitar The,12:14 AM,885,2
+Get Crazy,11:15 PM,516,3
+Amira & Sam,6:07 PM,439,2
+Private Confessions,4:18 PM,547,1
+Asterix at the Olympic Games (Astérix aux jeux olympiques),11:36 AM,720,1
+Middle of the World The (O Caminho das Nuvens),2:58 PM,151,3
+China 9 Liberty 37 (Amore piombo e furore),1:49 AM,415,3
+Charming Mass Suicide A (Hurmaava joukkoitsemurha),9:06 AM,506,3
+Mark of Cain The,8:16 PM,266,5
+Cult of the Cobra,12:59 AM,100,1
+200 Cigarettes,8:40 AM,401,3
+Green Ray The (Rayon vert Le),10:50 PM,246,3
+Mahler,11:05 PM,137,2
+Stone,9:38 AM,180,3
+We Don't Live Here Anymore,7:55 AM,963,1
+Dirty Work,7:34 PM,837,5
+Off Beat,9:42 PM,890,2
+Seduction of Joe Tynan The,10:26 PM,511,4
+Nuremberg,2:57 PM,702,1
+Won't Anybody Listen?,9:19 AM,648,4
+Precious,2:14 AM,744,1
+It's All True,6:02 PM,583,4
+Moon of the Wolf,11:34 PM,373,3
+Man of the House,10:40 AM,847,4
+King of Kings,5:06 PM,920,3
+Caprice,8:04 PM,922,1
+Seven Alone,7:44 AM,101,5
+My Favorite Year,8:47 PM,299,2
+The Arrival of Joachim Stiller,5:20 AM,707,4
+Bootmen,2:22 PM,382,3
+Evil Roy Slade,3:33 AM,916,4
+Retro Puppet Master (Puppet Master 7),8:35 PM,53,4
+Sel8nne,3:02 AM,327,1
+Inauguration of the Pleasure Dome,4:35 PM,836,3
+Rosa Luxemburg,12:02 AM,122,3
+Living Daylights The,3:39 AM,640,3
+I Am You (In Her Skin),10:58 AM,797,4
+Breaking the Silence: Truth and Lies in the War on Terror,2:41 PM,452,1
+Good Ol' Freda,1:00 PM,2,5
+Vodka Mr. Palmu (Vodkaa komisario Palmu),6:07 AM,829,1
+Strawberry and Chocolate (Fresa y chocolate),12:48 AM,536,5
+Wedlock,4:21 PM,721,5
+Heartbeats (Les amours imaginaires),8:48 PM,836,3
+Free Ride,2:51 PM,667,4
+Damien: Omen II,10:06 AM,514,4
+Color of Paradise The (Rang-e khoda),7:20 AM,986,4
+Twelve Chairs The,4:56 PM,516,5
+I Bought a Vampire Motorcycle,1:06 PM,539,3
+Ole dole doff,4:01 AM,354,5
+Man You Had in Mind The,2:59 PM,552,4
+Narco Cultura,5:47 AM,41,2
+Crime of Father Amaro The (Crimen del padre Amaro El),1:42 AM,794,2
+Mishen (Target),7:09 PM,422,5
+Subway,8:25 AM,207,4
+Linsanity,12:35 AM,628,3
+Ball The (Le bal),5:26 AM,813,2
+Forgotten,11:37 PM,631,3
+Meet the Robinsons,7:52 AM,912,3
+Land of Plenty (Angst and Alienation in America),5:31 AM,68,1
+Trick or Treat,9:36 PM,793,5
+Winning Streak,9:43 PM,334,4
+Walk on the Moon A,7:52 PM,539,4
+Diana,12:14 PM,16,1
+Pascali's Island,8:10 AM,543,3
+Exit,6:17 PM,805,4
+Memories of Me,8:50 PM,114,5
+Excuse Me for Living,5:35 AM,327,2
+Santa Who?,6:58 PM,910,5
+Bear's Kiss,5:25 AM,98,4
+Withnail & I,6:54 AM,37,2
+Black Cloud,2:46 AM,564,2
+The Golden Voyage of Sinbad,12:29 PM,528,3
+Topkapi,11:39 PM,822,3
+Desert Heat (Inferno),2:26 PM,477,5
+Merlin,6:41 AM,967,2
+Bill Hicks: Relentless,2:42 PM,706,2
+Suicide Shop The (Le magasin des suicides) ,1:36 AM,300,3
+Romasanta: The Werewolf Hunt,2:15 PM,955,1
+Captains Courageous,8:30 PM,79,4
+Bridal Party in Hardanger The (Brudeferden i Hardanger),11:22 PM,998,2
+Journey of August King The,11:42 PM,787,1
+Man Facing Southeast (Hombre mirando al sudeste),8:39 AM,344,2
+Dreamland,3:52 AM,714,5
+Missing Picture The (L'image manquante),11:34 AM,512,5
+My Sister Eileen,10:19 PM,571,3
+Rage: Carrie 2 The,11:25 AM,729,3
+Marriage Italian Style (Matrimonio all'italiana),3:01 AM,252,1
+Browning Version The,6:38 AM,750,2
+Superhero Movie,10:19 PM,429,4
+Suing the Devil,11:25 PM,6,2
+Kiss Before Dying A,5:42 AM,973,4
+Renaissance,9:10 PM,384,3
+At War with the Army,7:27 PM,902,5
+Blind Husbands,9:39 PM,871,2
+Scorchers,8:15 AM,886,2
+B.U.S.T.E.D (Everybody Loves Sunshine) (Busted),6:13 PM,582,5
+Maurice,1:44 AM,223,4
+Benji the Hunted,10:26 PM,63,3
+Rains Came The,11:23 AM,689,4
+Out of the Fog,2:48 AM,995,5
+Lonely Man The,1:49 PM,354,3
+Dr. Cyclops,8:25 AM,470,2
+Please Vote for Me,2:27 AM,996,3
+Wasteland,11:30 AM,494,1
+Cellular,7:51 PM,753,2
+Bekas,4:38 PM,94,5
+Must Love Dogs,12:08 PM,560,1
+36 Quai des Orfèvres (Department 36),12:23 AM,575,4
+Green Zone,9:10 PM,792,5
+Hole in the Soul A (Rupa u dusi),9:00 PM,234,5
+Surrogates,2:24 PM,963,3
+Soul Men,1:00 PM,104,4
+Gospa,9:46 PM,510,1
+Savannah Smiles,1:14 AM,3,1
+100 Years at the Movies,11:46 AM,295,3
+Lilya 4-Ever (Lilja 4-ever),10:38 AM,937,1
+La Putain du roi,4:08 AM,181,5
+Goal! III,2:22 AM,270,5
+Fullmetal Alchemist the Movie: Conqueror of Shamballa (Gekijô-ban hagane no renkinjutsushi: Shanbara wo yuku mono),12:07 AM,338,4
+Tapped,10:53 AM,324,4
+When a Stranger Calls,1:27 PM,769,3
+Northern Soul,6:48 AM,927,3
+Hunger (Sult),11:18 AM,645,4
+Some Mother's Son,7:35 AM,881,5
+Death Note 2: The Last Name,2:41 AM,871,3
+Weekend (a.k.a. Le Week-end) (Week End),4:59 AM,706,3
+Cars 2,5:55 AM,260,2
+Farscape: The Peacekeeper Wars,4:49 AM,633,4
+Ashes of Time (Dung che sai duk),2:22 AM,19,2
+Delusions of Grandeur (La folie des grandeurs),6:50 AM,488,3
+Sun Alley (Sonnenallee),2:41 AM,5,5
+Pokémon 3: The Movie,2:26 AM,795,4
+Gertrud,12:01 AM,365,3
+Pendulum,4:57 AM,452,2
+Dancing in September,12:14 AM,715,1
+Dark Eyes (Oci ciornie),2:35 PM,822,1
+Werewolf The,9:03 AM,780,4
+Dante's Inferno Animated,11:38 AM,819,4
+25th Hour,12:20 AM,874,2
+Bon Voyage,5:09 PM,665,1
+Drop Dead Gorgeous,12:02 AM,715,4
+Kommissarie Späck,9:22 PM,856,4
+Sebastiane,8:40 AM,922,3
+Bride of the Monster,2:11 PM,27,4
+Return to Never Land,4:19 PM,297,3
+Apocalypto,3:34 PM,392,1
+Aral Fishing in an Invisible Sea,6:11 AM,831,5
+Fellini: I'm a Born Liar (Fellini: Je Suis um Grand Menteur),12:24 PM,713,2
+Heir to an Execution,11:24 PM,554,1
+Macbeth,8:01 PM,415,5
+Walter Defends Sarajevo (Valter brani Sarajevo),5:28 AM,87,5
+Turtles Can Fly (Lakposhtha hâm parvaz mikonand),3:35 PM,781,2
+Libel,1:48 PM,953,5
+Children of Nature (Börn náttúrunnar),9:41 AM,793,5
+In Between Days,8:47 PM,552,5
+State of Emergency,10:38 AM,367,1
+Big Nothing,8:29 AM,604,3
+Earth (Zemlya),12:17 AM,222,1
+City of the Living Dead (a.k.a. Gates of Hell The) (Paura nella città dei morti viventi),3:23 AM,844,3
+Kinsey,8:32 PM,468,4
+Marriage Material,12:00 AM,83,5
+California,4:01 PM,592,3
+Slap Shot 2: Breaking the Ice,8:45 AM,103,4
+Center Stage,12:50 AM,820,2
+Along Came Polly,11:22 AM,265,2
+Brubaker,12:25 AM,867,3
+Futuresport,4:21 PM,391,1
+Crimes of the Heart,5:47 AM,123,1
+Jason X,10:48 AM,589,3
+Enter the Dragon,8:21 AM,471,5
+DiG!,6:40 PM,663,3
+From the Earth to the Moon,1:15 AM,353,1
+Cheeky (Trasgredire),6:15 AM,411,5
+Russell Peters: The Green Card Tour - Live from the O2 Arena,10:28 AM,500,3
+Bells The,4:42 PM,731,3
+Livid (Livide),7:44 PM,839,5
+American Affair An,3:04 PM,975,3
+One Crazy Summer,2:52 PM,60,5
+Carmen Comes Home (Karumen kokyo ni kaeru),2:39 AM,631,3
+Muppet Musicians of Bremen The,12:49 PM,384,4
+Here on Earth,6:07 AM,603,4
+Dead Leaves,2:00 AM,963,5
+Amos & Andrew,7:37 PM,548,1
+Phantasm III: Lord of the Dead,12:38 AM,557,2
+Places in the Heart,11:11 PM,465,4
+Cage aux Folles II La,8:45 PM,550,4
+Warriors of Virtue,5:40 PM,208,2
+Outsiders The,7:35 PM,216,5
+That Hagen Girl,11:33 AM,829,5
+Grandpa for Christmas A (Bert & Becca),5:16 PM,339,1
+Return of the Living Dead 3,8:04 AM,197,5
+Hardware,6:51 AM,585,1
+Spirit The,9:17 AM,779,3
+Intruder in the Dust,3:39 PM,160,3
+Changing Times (Les temps qui changent),8:39 AM,902,5
+Long Day's Journey Into Night,11:54 AM,579,1
+Hangover Part II The,2:42 PM,592,5
+Angel's Egg (Tenshi no tamago),2:02 PM,668,4
+Uncle Sam,10:17 PM,573,4
+InAPPropriate Comedy,12:50 AM,675,2
+That Darn Cat,10:25 PM,751,3
+Eight Days a Week,6:49 AM,131,4
+All American Orgy (Cummings Farm),9:02 PM,262,5
+The Wrecking Crew,11:40 PM,137,2
+Von Ryan's Express,7:21 AM,641,3
+Meet John Doe,6:20 AM,225,1
+It Runs in the Family (My Summer Story),12:48 AM,361,3
+I Know Where I'm Going!,10:07 AM,129,5
+Passenger Side,10:15 PM,424,3
+I'm So Excited (Los amantes pasajeros),12:35 PM,728,3
+Clean and Sober,6:35 AM,469,1
+Letter The,6:49 AM,190,5
+Alter Egos,6:37 AM,730,1
+Blackboard Jungle,2:27 AM,168,5
+Tables Turned on the Gardener,6:07 PM,919,2
+Iron Man 3,1:05 PM,42,4
+Lost Boundaries,5:39 AM,707,5
+JFK,11:17 AM,463,2
+Boys: The Sherman Brothers' Story The,10:22 PM,395,2
+Up in Arms,7:51 PM,269,1
+Lottery Ticket,8:28 AM,500,5
+Pride of the Marines,5:51 PM,413,1
+Jack Ryan: Shadow Recruit,9:18 PM,103,3
+American Winter,1:41 PM,965,4
+Alfie,1:06 AM,528,4
+Angel Named Billy An,8:39 AM,944,2
+Appleseed Alpha,10:31 PM,434,2
+Molière,5:53 PM,540,5
+Kummeli Stories,9:34 AM,446,1
+Boys Les,6:46 PM,257,2
+Black Robe,4:43 PM,541,1
+Toni,11:06 AM,99,5
+Fido,5:35 AM,573,3
+When the Last Sword is Drawn (Mibu gishi den),10:47 AM,235,5
+Benny Goodman Story The,3:26 AM,196,3
+Siege The,3:45 PM,284,1
+Casey Jones,10:53 AM,345,3
+Little Accidents,7:33 PM,413,5
+The Heart Machine,6:02 AM,656,2
+Grayeagle,7:09 PM,529,5
+Palms (Ladoni),10:27 AM,981,2
+Lone Wolf and Cub: Sword of Vengeance (Kozure Ôkami: Kowokashi udekashi tsukamatsuru),4:25 PM,952,2
+Jerry Springer: The Opera,6:26 AM,90,4
+Will Success Spoil Rock Hunter?,9:41 AM,296,1
+Love Movie The (Rakkauselokuva),5:53 PM,636,3
+Day He Arrives The (Book chon bang hyang),3:18 PM,660,1
+Empty Nest (El nido vacío),1:14 AM,552,5
+Boys Life 4: Four Play,5:05 PM,103,5
+Dragon (Wu Xia),4:43 AM,566,5
+Empire Falls,11:11 AM,613,3
+Piggy,12:04 AM,288,1
+Moonlight Murder,6:29 AM,550,3
+Return of the Killer Tomatoes!,3:01 PM,126,5
+Band of Outsiders (Bande à part),9:20 PM,857,2
+Topper,4:07 PM,331,5
+Encore,12:18 AM,421,1
+Welcome to the Jungle,1:29 AM,926,3
+Bachelorette,2:44 PM,291,5
+Snowpiercer,6:49 AM,848,5
+The Biggest Bundle of Them All,11:31 PM,336,2
+Nanny McPhee,9:10 AM,559,4
+The Magical Legend of the Leprechauns,9:01 PM,766,5
+The Woman on Pier 13,11:02 PM,640,4
+Garbo the Spy (Garbo: El espía),6:30 AM,854,3
+Semper Fi,5:00 AM,226,5
+Sexmission (Seksmisja),10:06 PM,703,4
+Where Angels Go Trouble Follows,6:32 PM,105,5
+Intimate Strangers (Confidences trop intimes),3:39 AM,137,5
+Ten Tall Men,5:06 AM,60,3
+Aloft,7:03 AM,175,4
+Man from Monterey The,9:30 PM,651,2
+Umbrellas of Cherbourg The (Parapluies de Cherbourg Les),3:40 AM,121,2
+Picking Up the Pieces,5:07 PM,165,1
+Paulie,4:15 AM,455,1
+Lonely Street,11:44 PM,217,2
+Dream Machine,6:47 AM,786,5
+Beverly Hills Cop III,11:05 PM,719,5
+Hope Springs,6:18 PM,474,1
+Gayby,11:05 PM,324,1
+Printed Rainbow,3:26 AM,457,5
+Kings of Summer The,10:30 AM,857,5
+Mother Wore Tights,2:51 AM,527,5
+Hoodlum,10:33 AM,635,4
+The Adventure of Faustus Bidgood,10:32 PM,416,1
+Jekyll & Hyde... Together Again,11:14 PM,17,5
+Madman,6:27 AM,989,1
+Bill Bailey: Qualmpeddler,6:11 PM,475,3
+Gimme Shelter,2:27 AM,131,2
+Dangerous Man A,10:24 PM,779,5
+Deliver Us from Eva,9:27 AM,572,2
+Kung Fu Panda Holiday Special,6:38 PM,729,4
+Above Suspicion,12:27 PM,625,1
+Thief of Paris The (Le voleur),10:06 PM,890,5
+Sleeper,10:37 PM,695,4
+Taking Care of Business,4:12 AM,796,1
+Colt Comrades,5:35 AM,990,5
+Six Days,4:24 AM,369,2
+Rapture (Arrebato),5:59 AM,636,4
+Cannibal! The Musical (a.k.a. Alferd Packer: The Musical),6:45 AM,219,2
+Heavy Metal,9:00 AM,323,3
+In the Land of Blood and Honey,5:49 PM,497,1
+Boys Les,7:14 AM,349,1
+Georg,1:02 AM,468,5
+Eden,2:50 AM,907,5
+Woods The,10:19 AM,941,5
+Perfect Man A,7:23 PM,765,3
+Company Business,8:30 AM,363,4
+Wicked Little Things,3:02 AM,87,2
+Crazed Fruit (Kurutta kajitsu),1:16 AM,578,3
+Jungle Creature: Hugo The (Jungledyret) (Go Hugo Go),4:49 PM,657,1
+Robot & Frank,4:26 AM,864,1
+Windstruck (Nae yeojachingureul sogae habnida),8:03 AM,951,2
+I Was a Male War Bride,12:40 PM,121,4
+Lightnin',11:44 PM,324,1
+Bandits (Bandidos),11:30 PM,172,3
+The Expedition to the End of the World,5:57 PM,99,4
+Donald Glover: Weirdo,6:01 PM,270,3
+Badge The,11:12 AM,223,1
+Dead Men Tell,12:28 AM,810,3
+Crying Out Love in the Center of the World (Sekai no chûshin de ai o sakebu),4:36 PM,466,2
+Beaches,5:59 AM,579,2
+Twenty Bucks,8:05 AM,386,1
+Nowhere Boy,1:19 AM,345,2
+Smile Like Yours A,6:21 PM,840,3
+Blue Light The (Blaue Licht Das),12:01 AM,704,5
+Gay Bed and Breakfast of Terror The,5:51 AM,504,2
+Free Ride,6:05 PM,219,4
+CB4 - The Movie,5:18 AM,324,1
+This Girl's Life,4:52 PM,531,1
+Quo Vadis Baby?,3:02 AM,688,1
+Dakota,12:57 AM,292,5
+Flying Deuces The,4:29 PM,425,3
+Dancer in the Dark,9:09 AM,398,1
+Siberia,9:52 PM,516,4
+Desert Heat (Inferno),10:00 AM,514,4
+Joe Kidd,7:24 PM,823,4
+Uninvited The,11:08 PM,58,4
+Steamroller and the Violin The (Katok i skripka),2:23 PM,229,5
+Hedda Gabler,12:38 PM,628,4
+Forgotten The,1:25 AM,775,1
+Silent Night Deadly Night,1:21 PM,477,4
+The Fault in Our Stars,12:01 AM,414,1
+Arthur 2: On the Rocks,9:26 AM,795,4
+Fatherland,8:25 AM,660,3
+Spirit of the Beehive The (Espíritu de la colmena El),7:58 AM,902,1
+Mann tut was Mann kann,3:25 AM,559,5
+Heart Like a Wheel,12:39 PM,523,2
+I Don't Want to Be a Man (Ich möchte kein Mann sein),12:25 PM,624,3
+Any Which Way You Can,5:02 PM,844,4
+Ca$h,12:07 AM,802,4
+Ride,10:03 AM,238,1
+Evilspeak,3:30 AM,225,3
+Cromwell,9:31 PM,277,5
+Pirates of Silicon Valley,2:02 PM,677,4
+Les modèles de 'Pickpocket',5:31 PM,283,3
+Norbit,7:32 PM,172,3
+Premature Burial The,9:15 AM,954,5
+Gridlock'd,1:15 AM,413,5
+Echoes from the Dead (Skumtimmen),3:22 AM,357,1
+And the Pursuit of Happiness (La poursuite du bonheur),5:06 AM,863,1
+Beyond the Time Barrier,12:59 PM,79,4
+Shepard & Dark,12:35 PM,716,1
+Hugo Pool,8:21 PM,5,2
+Angels in the Outfield,11:55 AM,58,5
+Donovan's Echo,12:13 AM,829,2
+Tom Jones,10:57 PM,844,2
+Jack the Ripper,2:19 AM,919,1
+The Shoe,3:56 AM,859,1
+Bride Comes Home The,9:19 PM,934,2
+Nightmare City (a.k.a. City of the Walking Dead) (a.k.a. Invasión de los zombies atómicos La) (Incubo sulla città contaminata),3:15 PM,700,2
+Sleuth,9:34 PM,347,2
+Sandra of a Thousand Delights (Vaghe stelle dell'Orsa...),12:57 PM,692,5
+Seaside (Bord de Mer),11:48 AM,370,1
+Space Battleship Yamato,7:32 AM,205,2
+Sicilian The,3:19 PM,69,3
+Let the Bullets Fly,1:50 PM,703,2
+Trinity: Gambling for High Stakes (Odds and Evens) (Pari e dispari),3:55 AM,676,4
+Captain America: The First Avenger,3:33 AM,449,5
+Harvie Krumpet,12:05 PM,539,2
+Flamenco (de Carlos Saura),8:25 AM,642,1
+Undertaker and His Pals The,6:40 AM,884,5
+Deadline - U.S.A.,1:25 AM,564,2
+Morning Glory,5:12 AM,568,5
+Object of My Affection The,12:26 AM,2,2
+Run Man Run! (Corri uomo corri),6:51 AM,634,4
+Love and Other Catastrophes,7:03 AM,18,5
+Sparks,8:50 PM,599,1
+Bone Collector The,5:01 PM,46,4
+Tony Rome,6:42 PM,119,2
+Gunner Palace,8:23 AM,366,2
+Second Chorus,3:59 PM,908,5
+Comes a Horseman,3:49 PM,15,4
+Repentance,12:34 PM,973,5
+Girl Positive,7:50 AM,83,3
+Baadasssss! (How to Get the Man's Foot Outta Your Ass),11:22 AM,289,4
+Celine: Through the Eyes of the World,4:00 PM,894,1
+Liliom,11:02 AM,295,4
+Get Out Your Handkerchiefs (Préparez vos mouchoirs),5:06 PM,624,1
+Lotta 2: Lotta flyttar hemifrån,2:14 PM,598,4
+If You Are the One,12:45 AM,795,3
+Sovereign's Company,10:52 AM,607,1
+Keep The,10:29 AM,681,2
+Four Lions,2:19 PM,970,5
+Garage,3:05 PM,719,4
+Rabbit Hole,1:37 AM,140,3
+Jolson Story The,9:12 PM,837,2
+Suburbans The,5:43 PM,827,2
+Turistas,1:41 AM,645,2
+Streetcar Named Desire A,10:22 AM,699,1
+Welfare,1:00 AM,166,2
+Never Been Kissed,12:03 AM,835,1
+Outside Providence,11:02 AM,427,1
+White Man's Burden,2:43 PM,353,3
+Flintstones in Viva Rock Vegas The,7:30 PM,94,5
+Anna and the King,9:04 AM,618,1
+To Have and Have Not,10:46 AM,721,4
+Trailer Park Boys: Live at the North Pole,11:10 PM,30,1
+Last Starfighter The,1:21 PM,28,2
+One Way Boogie Woogie,12:24 AM,568,4
+Tooth Fairy 2,7:33 PM,477,5
+Decoding the Past: Secrets of the Koran,5:55 PM,367,4
+Krrish 3,12:42 PM,627,2
+Ladies of Leisure,9:40 AM,347,3
+North West Frontier,4:29 PM,820,3
+Mutant Chronicles,10:58 AM,189,3
+Liar's Autobiography: The Untrue Story of Monty Python's Graham Chapman A,10:06 PM,747,1
+Little Big League,6:14 AM,501,4
+Twins,11:11 AM,280,2
+Aaron Loves Angela,11:13 PM,600,3
+Cleopatra,8:55 PM,519,1
+Afro Samurai: Resurrection,3:23 AM,254,1
+This Man Must Die (Que la bête meure),1:34 AM,14,5
+Dragon Ball: Mystical Adventure (Doragon bôru: Makafushigi dai bôken),3:50 PM,172,5
+Easy Virtue,2:16 AM,844,3
+Until Death,9:05 PM,163,3
+Hairspray,10:28 PM,856,3
+Our Daily Bread,6:43 AM,370,5
+Perfect Score The,8:26 AM,392,3
+Old School,8:27 PM,754,5
+Striking Distance,11:24 PM,537,5
+Sweet Mud (Adama Meshuga'at),4:43 PM,551,1
+Serial Mom,12:13 AM,220,4
+Guilty Hands,4:05 AM,783,4
+Pickpocket,4:18 PM,870,4
+First Descent,12:52 AM,673,5
+Nightmare on Elm Street A,10:37 PM,753,2
+Ted,6:43 AM,893,4
+Blow,5:22 AM,473,3
+Progression,4:41 PM,953,2
+Anatomy of Hell (Anatomie de l'enfer),5:02 PM,145,2
+Washington Heights,12:59 PM,236,5
+Jerusalem Countdown,1:15 AM,626,2
+Hotte in Paradise (Hotte im Paradies),1:53 PM,620,4
+Bill & Ted's Bogus Journey,2:12 AM,245,4
+Freezer,10:57 AM,525,5
+Weather Man The,9:37 AM,620,5
+Bran Nue Dae,5:19 PM,201,3
+K-911,5:57 PM,868,4
+Serial (Bad) Weddings (Qu'est-ce Qu'on An Fit Au Bon Dieu?),3:11 AM,964,2
+Tibet: Cry of the Snow Lion,12:23 PM,112,2
+Captives,11:41 AM,126,5
+Little Indian Big City (Un indien dans la ville),5:59 PM,312,5
+Island of Lost Souls,12:12 PM,31,2
+Hardcore,3:41 PM,979,2
+Beyond Tomorrow (Beyond Christmas),4:20 AM,942,5
+Untamed Youth,4:28 PM,55,5
+Stage Door Canteen,10:50 PM,571,3
+Marjorie Morningstar,4:33 PM,906,3
+Zona Zamfirova,2:51 AM,145,4
+Night of the Hunted The (Nuit des traquées La),6:04 PM,879,3
+Mysterious Island The,7:38 AM,328,4
+Dillinger and Capone,5:57 AM,621,4
+Bratz: The Movie,4:47 PM,273,1
+Big Ass Spider!,12:58 AM,45,2
+Zatoichi's Revenge (Zatôichi nidan-kiri) (Zatôichi 10),12:02 PM,455,5
+Ballerina (La mort du cygne),1:07 PM,648,1
+Space Battleship Yamato,9:00 AM,958,2
+Billy Blazes Esq.,1:51 PM,162,1
+Christmas Carol: The Movie,1:26 PM,676,1
+Joyriders The,9:44 AM,773,1
+Sorrow and the Pity The (Le chagrin et la pitié),5:44 PM,677,3
+Cartouche,12:39 PM,269,1
+Save the Last Dance,11:01 AM,865,2
+Black Fury,8:40 PM,836,3
+Some Girls,2:10 PM,114,5
+Horrible Bosses,8:22 AM,823,5
+Weirdsville,9:34 PM,779,3
+Tooth Fairy 2,11:03 AM,482,2
+Class Action,12:46 PM,648,5
+Yuki & Nina,1:59 AM,736,5
+In the Shadow of the Machine,5:09 PM,321,4
+Beverly Hills Cop,10:40 PM,962,3
+Horse Soldiers The,5:50 PM,933,1
+Just Married,3:48 PM,333,1
+Electric Dragon 80.000 V,12:33 AM,525,4
+Inland Empire,10:22 PM,734,1
+Way Down East,6:02 AM,813,2
+Lebanon,5:53 PM,42,1
+Jerry Seinfeld: 'I'm Telling You for the Last Time',5:30 PM,270,3
+Three Burials of Melquiades Estrada The,11:29 AM,226,5
+William Shakespeare's A Midsummer Night's Dream,9:33 PM,502,1
+Babylon 5: Thirdspace,3:53 AM,847,3
+Surf's Up,1:19 AM,74,2
+Big Bad Love,3:36 PM,449,4
+Old Lady and the Pigeons The (La vieille dame et les pigeons),2:23 PM,650,4
+Diary of a Chambermaid (Journal d'une femme de chambre Le),8:20 PM,454,5
+Camino,6:42 AM,814,2
+Girlfriends The (Le amiche),9:44 PM,871,3
+Don Juan,6:41 AM,197,4
+I Never Promised You a Rose Garden,5:04 AM,185,1
+You're Missing the Point,2:56 AM,730,1
+Among Giants,10:15 AM,576,4
+Dirty Work,5:52 PM,474,5
+Black Scorpion The,12:22 PM,317,1
+Rampage at Apache Wells,9:59 PM,433,4
+Castle of Purity (El castillo de la pureza),7:19 PM,993,5
+Naked Spur The,6:55 AM,294,5
+So Much So Fast,9:49 AM,626,5
+Above Us Only Sky,4:17 PM,187,5
+Des gens qui s'embrassent,8:24 PM,636,4
+Human Stain The,10:19 AM,732,3
+This Is Where I Leave You,1:34 AM,542,1
+Yesterday Today and Tomorrow (Ieri oggi domani),3:38 PM,720,2
+Mine Games,7:09 AM,882,4
+Gremlins,7:53 PM,40,2
+Mask of Zorro The,10:13 PM,708,3
+Juan of the Dead (Juan de los Muertos),5:47 AM,925,4
+Making a Killing: The Untold Story of Psychotropic Drugging,5:02 AM,244,1
+Infection (Kansen),4:34 AM,361,2
+Piñero,5:48 PM,458,2
+Obsession,3:33 AM,764,3
+Taps,4:10 PM,438,1
+Christmas Carol A,6:17 PM,160,4
+If These Walls Could Talk 2,6:33 AM,796,3
+Pigsty (Porcile),8:26 AM,577,5
+Coming Home (Gui lai),11:56 AM,367,2
+Whisper of the Heart (Mimi wo sumaseba),9:16 AM,296,2
+Experts The,5:01 PM,923,4
+Arthur and the Revenge of Maltazard (Arthur et la vengeance de Maltazard),6:29 AM,526,5
+Godzilla vs. The Sea Monster (Gojira-Ebira-Mosura: Nankai no daiketto),4:23 PM,412,2
+Swamp Shark,4:10 PM,458,5
+Flowers of Shanghai (Hai shang hua),4:01 PM,261,4
+Halloween 5: The Revenge of Michael Myers,7:14 AM,601,4
+Man and a Woman A (Un homme et une femme),8:13 AM,282,3
+Beloved/Friend (a.k.a. Amigo/Amado) (Amic/Amat),3:56 AM,50,1
+Englishman in New York An,9:41 PM,948,1
+Lovers and Other Strangers,11:16 AM,481,4
+Spider-Man 3,11:45 AM,576,4
+Thirst (Pyaasa),6:12 AM,209,4
+Flying Scotsman The,8:23 PM,614,1
+Blade of the Ripper,11:16 PM,213,5
+Destry Rides Again,5:17 PM,380,5
+Big Bang in Tunguska (Das Rätsel von Tunguska),11:36 AM,878,3
+Key Largo,6:17 AM,767,4
+Werewolf The,2:20 AM,266,2
+Contract Killers,1:37 PM,674,2
+Ankur (The Seedling),1:09 AM,174,4
+Fletch Lives,2:53 AM,589,3
+Dirty Ho (Lan tou He),2:42 PM,851,5
+Smokin' Aces,1:04 AM,31,1
+Barren Lives (Vidas Secas),12:15 PM,144,2
+Barnacle Bill,11:05 AM,807,4
+Sisterhood of the Traveling Pants The,10:16 PM,457,2
+Love in the Afternoon (Chloe in the Afternoon)  (L'amour l'après-midi),9:41 PM,670,3
+Nativity 2: Danger in the Manger!,6:30 PM,844,1
+Night Nurse,7:49 AM,917,3
+You Got Served,8:18 AM,275,3
+Field The,2:02 AM,896,5
+Company of Heroes,12:48 PM,638,4
+The Woman on Pier 13,1:58 PM,203,3
+Nibelungen: Siegfried Die,6:09 AM,351,2
+Spies Like Us,12:36 AM,728,3
+Adventures of Priscilla Queen of the Desert The,3:52 PM,381,5
+Wake,10:24 PM,262,3
+Kika,10:26 PM,34,5
+Mabel at the Wheel,6:19 PM,532,2
+Blaze,9:05 AM,736,2
+A Matter of Size,3:22 PM,697,1
+Fierce Light: When Spirit Meets Action,3:26 PM,337,3
+Lies (Gojitmal),4:32 AM,945,4
+Fairhaven,2:24 AM,540,1
+My Life in Orange (Sommer in Orange),9:57 AM,328,2
+Divine Horsemen: The Living Gods of Haiti,9:22 AM,668,4
+Lassie,5:48 AM,618,4
+Woochi: The Demon Slayer,4:33 AM,458,4
+Comanche Station,11:22 PM,455,1
+That Man from Rio,2:18 AM,43,4
+Exterminating Angels The (anges exterminateurs Les),3:45 AM,925,4
+Amandla! A Revolution in Four Part Harmony,8:25 PM,975,3
+List of Adrian Messenger The,2:40 PM,180,1
+Killer at Large,10:44 PM,705,4
+Queen Bee,6:54 PM,244,3
+David and Bathsheba,10:55 PM,327,2
+Beast Within The,3:33 PM,37,5
+Be Cool,5:36 AM,615,3
+Better This World,7:06 AM,742,1
+Snakes and Earrings (Hebi ni piasu),7:57 AM,836,4
+LEGO Batman: The Movie - DC Heroes Unite,9:41 PM,865,2
+Tuesday After Christmas (Marti dupa craciun),3:33 AM,583,5
+Naked Fear,12:00 AM,804,2
+Jesse James,6:16 PM,255,1
+Treatment The,2:31 PM,925,3
+Ploy,3:36 AM,522,2
+Incir Reçeli,8:32 PM,334,1
+So Much So Fast,12:11 AM,548,1
+Law and Order,11:50 PM,448,3
+Amandla! A Revolution in Four Part Harmony,2:53 PM,697,2
+Left Behind,7:14 PM,595,3
+Life After People,11:47 PM,896,3
+The Guardians,2:35 PM,948,4
+Heads,8:56 AM,304,2
+Husk,9:30 PM,283,4
+Figures in a Landscape,8:42 AM,202,4
+Foreverland,7:07 AM,991,5
+Burton and Taylor,7:13 AM,542,2
+Shadowboxer,8:21 PM,105,2
+Blue Caprice,9:05 AM,398,3
+Razorback,3:44 PM,191,5
+View to a Kill A,4:09 AM,50,3
+Radio Days,8:52 AM,225,4
+Taxi Driver,9:56 AM,73,1
+I Killed My Mother (J'ai tué ma mère),5:52 PM,810,5
+Itinerary of a Spoiled Child,4:31 PM,658,2
+Getting Go the Go Doc Project,12:21 PM,772,3
+Supermarket Woman (Sûpâ no onna),1:22 AM,325,2
+French Film,10:24 PM,649,5
+Liberty Kid,5:59 PM,572,2
+Big Sleep The,6:55 AM,201,5
+Blues Harp,7:43 AM,14,5
+Midnight in the Garden of Good and Evil,6:52 AM,311,5
+Cercle Rouge Le (Red Circle The),8:52 PM,353,1
+Ravenous,9:08 PM,955,4
+Beautiful Girls,6:36 PM,614,5
+Save the Last Dance 2,10:37 AM,681,2
+Sergeant Körmy and the Underwater Vehicles (Vääpeli Körmy ja vetenalaiset vehkeet),10:21 PM,405,4
+Kilometre Zero (Kilomètre zéro),3:59 PM,768,3
+WikiRebels: The Documentary,5:19 AM,804,3
+Night of the Comet,8:04 AM,651,4
+Bad Girl Island (Sirens of Eleuthera) (Sirens of the Caribbean),8:45 PM,22,4
+Strangers When We Meet,2:07 AM,559,1
+Rosso,8:09 PM,873,2
+Four Stories of St. Julian ,9:32 PM,65,4
+Pumpkinhead II: Blood Wings,5:33 PM,59,3
+Berlin Calling,2:23 AM,754,3
+Farmer's Wife The,6:57 PM,637,1
+Diving In,1:26 AM,876,5
+Bachelor Party,11:19 AM,198,5
+Whitey: United States of America v. James J. Bulger,1:38 AM,15,3
+Eat,12:32 PM,601,2
+Mad Love,12:38 PM,529,1
+Feeling Minnesota,11:34 AM,310,4
+Capricious Summer (Rozmarné léto),1:47 PM,130,1
+Ong-Bak 3: The Final Battle (Ong Bak 3),2:10 AM,605,5
+Hardball,6:18 PM,581,1
+Our Little Girl,3:44 AM,238,3
+Love Happy,7:38 PM,974,3
+Match King The,2:00 PM,815,1
+Mare Nostrum,5:04 PM,750,4
+Gosford Park,10:31 AM,205,2
+Sink the Bismark!,10:54 PM,713,5
+Solan og Ludvig: Jul i Flåklypa,12:47 AM,542,2
+Chinese Ghost Story A (Sinnui yauwan),9:14 AM,665,4
+Chocolate Soldier The,3:16 PM,947,3
+In This Our Life,1:36 PM,160,1
+Games of Love and Chance (L'esquive),4:58 AM,880,1
+Once Upon a Time (Der var engang),8:26 AM,999,1
+Deliver Us from Evil,7:52 PM,942,3
+Jack Goes Boating,1:37 PM,973,3
+Facing the Giants,6:09 AM,213,5
+Beautiful Mind A,11:08 AM,418,1
+Hotel,7:48 AM,184,3
+Summer Wars (Samâ wôzu),7:44 PM,513,3
+Red Beret The,5:19 AM,726,4
+Gun Fury,4:18 AM,697,5
+Storm in Summer A,12:48 AM,773,5
+Out of the Furnace (Dust to Dust) (Low Dweller The),7:54 PM,909,4
+Sekirei,5:53 PM,241,2
+Cabin Fever,12:44 PM,266,3
+So Much So Fast,3:06 AM,31,4
+Russkies,9:26 PM,611,2
+Monkey Business,7:28 PM,931,1
+Killer Condom (Kondom des Grauens),5:51 AM,545,5
+First Knight,6:25 AM,598,4
+Homework,4:51 AM,691,5
+Monsturd,3:40 PM,405,4
+Nina's Heavenly Delights,10:39 AM,710,4
+Xiu Xiu: The Sent-Down Girl (Tian yu),11:02 AM,926,5
+Great Communist Bank Robbery (Marele jaf comunist),7:10 AM,989,1
+Club Fed,9:44 PM,698,3
+Passion of Joan of Arc The (Passion de Jeanne d'Arc La),1:46 AM,701,2
+Can Mr. Smith Get to Washington Anymore?,9:06 AM,195,3
+Rosa Luxemburg,8:00 PM,865,1
+Vantage Point,6:07 PM,457,5
+Thieves The (Dodookdeul),10:04 AM,454,3
+Mamma Mia!,1:07 AM,200,1
+12,9:58 AM,698,1
+Brothers McMullen The,9:44 AM,64,4
+Remington and the Curse of the Zombadings,9:04 PM,160,3
+Marilyn: The Untold Story,5:05 AM,16,1
+Warrior's Way The,11:48 AM,86,2
+Cooking with Stella,2:37 PM,526,3
+Family Guy Presents: It's a Trap,6:29 PM,434,5
+Private Lessons (Élève libre),3:36 AM,360,4
+Getting Any? (Minnâ-yatteruka!),6:15 AM,971,5
+Salaam Cinema,12:52 AM,48,4
+Real Women Have Curves,1:49 PM,512,5
+Pusher,1:21 PM,510,4
+Walking Tall Part II,8:20 AM,231,2
+Boudu Saved From Drowning (Boudu sauvé des eaux),4:17 AM,57,4
+Beverly Hills Chihuahua 2,4:02 PM,749,3
+Child's Play 3,11:41 AM,945,3
+Take The,10:35 PM,45,4
+Superstar,3:56 AM,23,4
+Man in the Moon The,3:34 AM,819,3
+Headhunters (Hodejegerne),5:25 PM,206,5
+Two-Minute Warning,12:05 PM,632,4
+How to Beat the High Cost of Living,8:34 AM,193,1
+Abduction,1:06 AM,247,2
+American Mary,8:44 AM,253,5
+Ernest in the Army,12:10 AM,645,2
+Justice League: War,8:24 AM,161,2
+Anna,4:34 AM,731,4
+Antonio Gaudí,5:36 PM,927,3
+Carnal Knowledge,11:16 PM,683,1
+Ernest Goes to Africa,7:36 AM,378,4
+Dune,11:47 AM,852,5
+I Love Sarah Jane,3:49 PM,705,4
+Murder Ahoy,9:41 AM,126,5
+Mishima: A Life in Four Chapters,3:11 PM,108,4
+Beautiful Creatures,10:14 AM,728,2
+Tobor the Great,6:08 PM,458,1
+Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?,10:10 PM,864,1
+Colorado Territory,6:44 PM,688,2
+Lord of War,3:34 PM,484,1
+The Vengeance of Fu Manchu,2:12 PM,35,2
+Goodbye Lover,2:33 AM,484,4
+Dragon Ball Z: Super Android 13! (Doragon bôru Z 7: Kyokugen batoru!! San dai sûpâ saiyajin),12:10 AM,76,5
+They Call Me Bruce? (a.k.a. A Fistful of Chopsticks),6:55 AM,484,2
+Man Trouble,10:28 AM,255,1
+Unspeakable Acts ,12:29 AM,564,1
+Soul Man,3:33 PM,769,2
+Closed Circuit,9:16 AM,803,3
+Lost Lost Lost ,2:33 PM,283,3
+Merry-Go-Round,1:51 AM,344,4
+Vicky Cristina Barcelona,4:22 PM,181,4
+Iria: Zeiram the Animation ,2:55 AM,964,1
+National Theatre Live: Frankenstein,10:14 PM,956,3
+I Frankenstein,3:58 AM,199,2
+Fist of Fury (Chinese Connection The) (Jing wu men),6:53 AM,214,1
+Lost Angels,3:50 AM,353,5
+Charlie Chan at Treasure Island,10:37 AM,819,4
+Dreamlife of Angels The (Vie rêvée des anges La),9:36 PM,655,3
+Beyond Silence (Jenseits der Stille),6:21 AM,138,3
+Dante's Peak,11:10 PM,429,2
+Same Same But Different,11:37 PM,487,2
+Reality,11:08 AM,667,4
+Beware of Pity,10:30 PM,205,1
+Lan Yu,10:48 PM,915,2
+Waiting for Guffman,12:22 AM,777,4
+Twenty Days Without War (Dvadtsat dney bez voyny),5:58 AM,756,1
+August Mordum's Underground,8:58 PM,669,1
+Gentle Woman A (Une femme douce),12:18 PM,498,1
+Only Lovers Left Alive,3:33 AM,723,3
+Three on a Match,12:18 PM,929,5
+Young at Heart (a.k.a. Young@Heart),4:06 PM,998,3
+Danse: The Paris Opera Ballet La (La Danse - Le ballet de l'Opéra de Paris),11:54 AM,161,4
+Down and Out in Beverly Hills,11:33 AM,492,2
+Enchanted April,10:04 AM,889,1
+I've Loved You So Long (Il y a longtemps que je t'aime),10:37 AM,722,3
+Down and Derby,10:39 AM,82,5
+Swell Season The,2:47 AM,265,5
+187 (One Eight Seven),8:42 AM,245,1
+House of Dark Shadows,1:04 AM,329,2
+Sorcerer,4:40 AM,621,3
+Excuse Me for Living,2:39 PM,438,5
+Raid,3:41 PM,268,4
+Fake It So Real,11:52 AM,195,2
+Assisted Living,4:04 AM,879,3
+A Flintstones Christmas Carol,7:25 PM,113,4
+Bluebeard,2:25 PM,198,4
+All Mine to Give,7:30 AM,172,1
+Smilin' Through,7:51 AM,189,2
+U.S. Marshals,7:23 AM,224,2
+Fallen Sparrow The,1:52 AM,721,2
+Mister Magoo's Christmas Carol,3:29 PM,393,1
+Miguel and William (Miguel y William),1:08 PM,22,1
+Breakout,7:12 AM,617,5
+Sapphires The,10:18 PM,677,3
+Asterix vs. Caesar (Astérix et la surprise de César),3:08 PM,897,4
+Hollow Crown The,12:51 PM,376,1
+On the Road to Emmaus (Emmauksen tiellä),6:32 AM,328,5
+History of Kim Skov (Historien om Kim Skov),1:42 PM,952,5
+Stendhal Syndrome The (Sindrome di Stendhal La),2:19 AM,764,4
+Willy Wonka & the Chocolate Factory,9:37 PM,883,4
+Battle of the Sexes The,9:06 PM,192,5
+Stavisky...,6:13 PM,218,5
+Don,7:59 PM,388,1
+Secrets The (Sodot Ha-),6:45 AM,877,1
+Girl Play,8:53 PM,601,5
+Yellow,12:03 PM,414,4
+A Connecticut Yankee in King Arthur's Court,9:19 AM,32,4
+Four Stories of St. Julian ,2:05 AM,50,3
+Eat Sleep Die (Äta sova dö),3:32 AM,877,2
+Emperor Jones The,1:10 AM,496,5
+I Monster,5:02 PM,901,2
+Soapdish,5:30 AM,101,5
+Living with Michael Jackson,7:00 AM,620,1
+Highball,9:15 PM,520,3
+It's Alive,1:57 PM,16,2
+Hot Tub Time Machine,5:26 PM,889,1
+Double Indemnity,5:01 AM,873,1
+League of Extraordinary Gentlemen The (a.k.a. LXG),2:58 AM,980,1
+Summer of Sam,12:53 AM,969,1
+Knock on Wood,10:49 PM,889,2
+Cowboys The,5:17 PM,771,3
+You Can't Win 'Em All,1:42 AM,296,3
+Flamingo Road,6:24 AM,782,1
+Nokas,11:58 AM,175,3
+Alice,9:57 PM,946,1
+Diary of a Chambermaid The,9:45 AM,204,3
+Lonely Guy The,8:55 AM,122,1
+Mindscape of Alan Moore The,1:56 PM,765,2
+Indiscretion of an American Wife (a.k.a. Terminal Station) (Stazione Termini),1:24 PM,559,2
+Details The,12:21 AM,424,3
+Beautiful Girls,2:20 PM,861,5
+Weekend at Bernie's II,5:43 AM,645,1
+Star Trek IV: The Voyage Home,5:58 AM,33,5
+Madeinusa,6:25 PM,835,1
+Nancy Goes to Rio,7:52 PM,647,3
+Room 666 (Chambre 666),6:33 PM,255,5
+Four Shades of Brown (Fyra nyanser av brunt),2:45 PM,413,2
+Garage,3:29 AM,588,5
+Edukators The (Die Fetten Jahre sind vorbei),1:38 AM,336,5
+Life for Sale (Kotirauha),10:18 PM,392,5
+Saving Sarah Cain,7:40 AM,511,5
+Never a Dull Moment,4:55 PM,5,4
+Dark City,10:32 AM,958,5
+Goal! III,5:27 PM,897,5
+Run Sister Run!,1:14 AM,561,5
+Gotti,7:03 PM,812,3
+Julia,3:34 AM,384,4
+New Rose Hotel,5:23 PM,710,5
+In China They Eat Dogs (I Kina spiser de hunde),7:28 PM,85,1
