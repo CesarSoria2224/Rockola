@@ -7,7 +7,8 @@
 #include "DataManager.cpp"
 #include "ArtistaManejadorDatosArchivo.cpp"  
 #include "CancionManejadorDatosArchivo.cpp"
-
+#include "CancionManejadorDatosEstaticos.cpp"
+using namespace std;
 class RockolaManager {
 private:
     playlist lista1;
@@ -198,28 +199,28 @@ private:
         }
     }
 
+
 public:
 
     RockolaManager() {
-        // Cargar las canciones
-        cancion c7("fiesta pagana", 6, 30, Artista("mago de oz", "espania", Genero::Rock), 2);
-        cancion c8("que", 5, 40, Artista("jessi", "mexico", Genero::Baladas), 1);
-        cancion c9("mira", 3, 40, Artista("marco ", "mexico", Genero::Romantica), 4);
-        cancion c10("bobo", 4, 52, Artista("cristian ", "mexico", Genero::Romantica), 5);
-        cancion c11("anda", 2, 30, Artista("pulga", "argentina", Genero::Cumbia), 6);
-        cancion c12("pasha", 3, 40, Artista("pulga", "argentina", Genero::Cumbia), 8);
-        cancion c29("se", 3, 5, Artista("frontera", "mexico", Genero::Romantica), 3);
-        cancion c30("termino", 3, 50, Artista("cesar", "bolivia", Genero::Romantica), 5);
-        canciones = { c7, c8, c9, c10, c11, c12, c29, c30 };
+      
     }
 
     void loadData() {
         // Cargar datos adicionales si es necesario
     }
-
-    void start() {
-
+    void IniciarDatoEstatico()
+    {
+        CancionManejadorDatosEstaticos ca;
+        std::list<cancion> cancionesVector = ca.obtenerCanciones();
+       
+        int i = 1;
+        for ( auto& cancion:cancionesVector) {
+           cout << i++ << ". "<<cancion.getTitulo()<<endl;
+           //cancion.verInfo();
+        }
         int opcion;
+
 
         do {
             MenuPricipal();
@@ -234,6 +235,75 @@ public:
                 break;
             case 3:
                 agregarAPlaylist(lista1, canciones);
+                break;
+            case 4:
+
+                cout << "Lista de canciones de favoritos:" << endl;
+                InformacionPlaylist(favoritos);
+                cout << "Lista de canciones de latinos:" << endl;
+                InformacionPlaylist(latinos);
+                cout << "Lista de canciones de lista1:" << endl;
+                InformacionPlaylist(lista1);
+                break;
+            case 5:
+                int numero;
+                cout << "Seleccione el numero de la cancion que desea eliminar: ";
+                cin >> numero;
+                eliminarDPlaylist(favoritos, numero);
+                break;
+
+            case 6:
+                int numer;
+                cout << "Seleccione el numero de la cancion que desea eliminar: ";
+                cin >> numer;
+                eliminarDPlaylist(latinos, numer);
+                break;
+            case 7:
+                int nume;
+                cout << "Seleccione el numero de la cancion que desea eliminar: ";
+                cin >> nume;
+                eliminarDPlaylist(lista1, nume);
+                break;
+            case 8:
+                elegirPlaylist(favoritos, latinos, lista1);
+                break;
+            case 9:
+                opcionAImportar(favoritos, latinos, lista1);
+                cout << "se importo correctamente" << endl;
+                cout << endl;
+                break;
+            case 10:
+                opcionAImportar(favoritos, latinos, lista1);
+                cout << "se clono correctamente" << endl;
+                cout << endl;
+                break;
+            case 11:
+                //return 0;
+                break;
+            }
+        } while (opcion != 11);
+    }
+    void IniciarDatoArchivo() {
+        ArtistaManejadorDatosArchivo artistaManager;
+        CancionManejadorDatosArchivo cancionManager(artistaManager);
+
+        list<cancion> listadecanciones = cancionManager.cargar();
+        int opcion;
+        
+
+        do {
+            MenuPricipal();
+            cin >> opcion;
+            switch (opcion) {
+            case 1:
+                agregarAPlaylist(favoritos, listadecanciones);
+
+                break;
+            case 2:
+                agregarAPlaylist(latinos, listadecanciones);
+                break;
+            case 3:
+                agregarAPlaylist(lista1, listadecanciones);
                 break;
             case 4:
 
